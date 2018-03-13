@@ -1,0 +1,1 @@
+This extension allows to prevent a news article from being listed more than once on a page.
