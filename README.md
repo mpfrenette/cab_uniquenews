@@ -1,0 +1,2 @@
+# cab_uniquenews
+With TYPO3, it is possible to display multiple news plugins, but if a news is in multiple categories, or if you have multiple plugins with the same settings, news will repeat. I created in 2007 this very simple extension which simply prevented displaying a single news item more than once! The PHP code is only 7 actual lines but it helped thousands of TYPO3 news site until my functionality was added to tt_news itself!
